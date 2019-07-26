@@ -1,5 +1,7 @@
 package org.firas.rdb_model.dialect.db2
 
+import org.firas.rdb_model.dialect.DbCharset
+
 /**
  * Code page number in DB2 for the character set
  * @author Wu Yuping

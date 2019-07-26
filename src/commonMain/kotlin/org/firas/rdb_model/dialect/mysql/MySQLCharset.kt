@@ -1,5 +1,7 @@
 package org.firas.rdb_model.dialect.mysql
 
+import org.firas.rdb_model.dialect.DbCharset
+
 /**
  * 
  * @author Wu Yuping
